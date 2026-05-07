@@ -23,3 +23,6 @@ Interrupt 21h DOS Services
 Low-Level Memory & Register Operations
 
 This project was developed as part of an academic coursework assignment to strengthen knowledge of Assembly programming, logic building, and system-level computation.
+
+
+#COPY THE PROJECT_CODE AND PASTE THAT CODE IN EMU8086 TO OPERATE IN YOUR PC#
